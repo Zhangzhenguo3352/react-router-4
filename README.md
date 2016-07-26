@@ -1,8 +1,5 @@
 # react-kelink
-```
-为柯林CMS建站系统定制的文章模块webapp
-官网：http://kelink.com/
-```
+
 ### 广告
 ```
 NodeJS前端分享群 133240225
